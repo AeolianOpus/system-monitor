@@ -1,22 +1,20 @@
 # Project structure
 
 system_monitor/
-│
 ├── main.py
 ├── config.py
 ├── requirements.txt
 ├── README.md
-│
 ├── monitor/
-│   ├── __init__.py
-│   ├── system_monitor.py
-│   └── stats.py
-│
-├── utils/
-│   ├── __init__.py
-│   ├── logger.py
-│   ├── ascii_graph.py
-│   └── file_handler.py
+│ ├── init.py
+│ ├── system_monitor.py
+│ └── stats.py
+└── utils/
+  ├── init.py
+  ├── logger.py
+  ├── ascii_graph.py
+  ├── file_handler.py
+  └── plotter.py
 
 ## Description
 
