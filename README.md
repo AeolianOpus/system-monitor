@@ -1,5 +1,5 @@
 # Project structure
-
+```
 system_monitor/
 ├── main.py
 ├── config.py
@@ -15,6 +15,7 @@ system_monitor/
   ├── ascii_graph.py
   ├── file_handler.py
   └── plotter.py
+```
 
 ## Description
 
