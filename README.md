@@ -19,7 +19,7 @@ system_monitor/
 
 ## Description
 
-A Python CLI tool that displays your cpu, gpu, ram and disk usage. It includes functions as live auto refresh mode, both file and terminal logging, report export to file and configuration handling. Added some ascii graphics as well to make it look cooler.
+A Python CLI tool that displays your cpu, gpu, ram and disk usage. It includes functions as live auto refresh mode, both file and terminal logging, export to file, png with graphs and configuration handling. Added some ascii graphics as well to make it look cooler.
 
 ## Installation
 
